@@ -1,5 +1,5 @@
 import React from "react";
-import { Switch, Router, Route } from "react-router-dom";
+import { Switch, Route } from "react-router-dom";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import ProductList from "./components/ProductList";
